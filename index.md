@@ -142,14 +142,12 @@
 
 
 
-# Análise de Circuitos Elétricos
-## Aula 06 - Circuitos de Primeira Ordem
+# Modelagem Baseada em Equações Diferenciais
+## Fenômeno da descarga de um capacitor em um circuito RC modelado por uma EDO de 1ª ordem
  
-Prof. M.Sc. Diego Ascânio Santos (ascanio@cefetmg.br)
+M.Sc. Diego Ascânio Santos ([ascanio@cefetmg.br](mailto:ascanio@cefetmg.br))
 
-Aula baseada sobre o material do professor Dr. Emerson Gonçalves de Melo (emerdemelo@usp.br - DEMAR EEL USP), da professora Drª. Thabatta Moreira Alves de Araújo (thabatta@cefetmg.br - DIGDDV) e da Khan Academy.
-
-CEFET-MG DIGDDV - Divinópolis, 2023.
+Apresentação baseada em aula lecionada pelo autor sobre [Circuitos de Primeira Ordem](https://diegoascanio.github.io/ace-aula-06) na disciplina de Análise de Circuitos Elétricos do curso de Engenharia da Computação do CEFET-MG campus Divinópolis.
 
 
 ---
