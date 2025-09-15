@@ -1,7 +1,31 @@
+<style scoped>
+
+p {
+    text-align: justify;
+    font-size: 22px;
+}
+
+figure > img {
+    background-color: transparent!important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure > figcaption {
+    text-align: center;
+    font-size: 16px;
+}
+
+</style>
+
 ## DEFINIÇÃO
 
 Circuitos de primeira ordem são circuitos que possuem apenas um elemento (capacitor ou indutor) de armazenamento de energia em série a um elemento resistivo (resistor).
 
-Até o momento, conhecemos somente as grandezas presentes em um acumulador de energia (tensão, corrente, potência e energia) mas, não entendemos os processos que determinam como tais elementos acumulam ou fornecem energia.
+Os circuitos RC — que expressam a ligação entre resistores, capacitores e fontes de tensão ou corrente, como ilustrado pela Figura 1 — são exemplos de circuitos de primeira ordem.
 
-Para isso, precisamos definir os conceitos de estados transitórios e permanentes, o conceito de estímulos (natural e degrau) e introduzir as respostas de capacitores e indutores a tais estímulos.
+<figure>
+  <img src="https://i.imgur.com/7L5JxQW.png" alt="Circuito RC">
+  <figcaption>Figura 1: Circuito RC.</figcaption>
+</figure>

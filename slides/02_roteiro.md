@@ -1,11 +1,7 @@
 ## Roteiro
 
 1. Definição
-2. Estados Permanentes e Estados Transitórios
-3. Estímulo Natural
-4. Estímulo Degrau
-5. Resposta Natural do Circuito RC
-6. Resposta Natural do Circuito RL
-7. Resposta ao Degrau do Circuito RC
-8. Resposta ao Degrau do Circuito RL
-9. Solução Geral Para Respostas a um Degrau e Natural
+2. Deduzindo uma EDO de 1ª ordem que permite obter $Q_{C}(t)$ à partir de $V(t)$
+3. Obtendo uma solução geral para $Q_{C}(t)$ por meio do método do fator integrante
+4. Análise de $Q_{C}(t)$ para $t \to \infty$ quando $V(t)$ é constante
+5. Análise de $Q_{C}(t)$ para $t \to \infty$ quando $V(t)$ é senoidal
